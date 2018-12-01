@@ -1,0 +1,12 @@
+---
+spring:
+  application:
+    name: demo
+  profiles:
+    active: dev
+  social:
+    facebook:
+      appId: 1712030709087255
+      appSecret: e95c2cc7a6019fe608eb8b097d896b36
+server:
+  port: 9003
